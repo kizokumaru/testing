@@ -1,0 +1,20 @@
+CREATE DATABASE familia_eco;
+GRANT ALL ON familia_eco TO 'pi'@'localhost';
+USE familia_eco;
+
+CREATE TABLE IF NOT EXISTS apuntes (
+  apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY, 
+  fechaContable DATE, 
+  fechaValor DATE,
+  concepto CHAR(30), 
+  importeOriginal DECIMAL SIGNED,
+  moneda CHAR(3),
+  saldoAnt DECIMAL SIGNED, 
+  saldoPost DECIMAL SIGNED,
+  importeD DECIMAL UNSIGNED,
+  importeH DECIMAL UNSIGNED,
+  timestampAlta DATETIME,
+  procesoAlta CHAR(15),
+  timestampMod DATETIME,
+  procesoMod CHAR(15)
+);
