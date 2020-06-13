@@ -1,12 +1,14 @@
+
 CREATE DATABASE familia_eco;
 GRANT ALL ON familia_eco TO 'pi'@'localhost';
 USE familia_eco;
 
+DROP TABLE apuntes;
 CREATE TABLE IF NOT EXISTS apuntes (
   apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY, 
   fechaContable DATE, 
   fechaValor DATE,
-  concepto CHAR(30), 
+  concepto CHAR(50), 
   importeOriginal DECIMAL SIGNED,
   moneda CHAR(3),
   saldoAnt DECIMAL SIGNED, 

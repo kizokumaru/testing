@@ -1,0 +1,1045 @@
+'FECHA';'COMERCIO/CAJERO';'IMPORTE';'MONEDA';'CONCEPTO';'ESTADO';'SEQ';'Clave_Concepto';'Categoria';'Subcategoria';'Fijos_Variables'
+31/01/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+31/01/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+31/01/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/02/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/02/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/02/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/03/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/03/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/03/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/04/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/04/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/04/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/05/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/05/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/05/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/06/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/06/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/06/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/07/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/07/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/07/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/08/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/08/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/08/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/09/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/09/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/09/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+28/09/2018;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.970,24 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/09/2018;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+04/10/2018;'Banda Escola';-76,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+26/10/2018;'HAB. BBVA INFORMATION TECHNOLOGY ES';2.104,39 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/10/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/10/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/10/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+29/10/2018;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+31/10/2018;'S/OR. JUANDIK';-80,00 €;'EUROS';'BBVA';'PAGADO';1;'JUANDIK';'Gastos_Ocio y transporte';'Loterias';
+04/11/2018;'Banda Escola';-76,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+27/11/2018;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.908,78 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/11/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/11/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/11/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+29/11/2018;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+04/12/2018;'Banda Escola';-76,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+18/12/2018;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.767,69 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+26/12/2018;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.713,95 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/12/2018;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+28/12/2018;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+28/12/2018;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+31/12/2018;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+04/01/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/01/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/01/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/01/2019;'Banda Escola';-76,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+18/01/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.638,76 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+23/01/2019;'SANITAS';-47,44 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+29/01/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/02/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+04/02/2019;'Banda Escola';-70,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/02/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/02/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/02/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+19/02/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';2.164,58 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/02/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/03/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+04/03/2019;'Banda Escola';-70,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/03/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/03/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/03/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/03/2019;'AMPA';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'AMPA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+18/03/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';2.229,83 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/03/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/04/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+04/04/2019;'Banda Escola';-70,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/04/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/04/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/04/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+12/04/2019;'S/OR. JUANDIK';-80,00 €;'EUROS';'BBVA';'PAGADO';1;'JUANDIK';'Gastos_Ocio y transporte';'Loterias';
+17/04/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.664,93 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+25/04/2019;'Formacion OPOS19';-350,00 €;'EUROS';'BBVA';'PAGADO';1;'FORMACION';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+29/04/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+03/05/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+04/05/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/05/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/05/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+06/05/2019;'Banda Escola';-70,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+17/05/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.982,76 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/05/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+03/06/2019;'Banda Escola';-35,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+03/06/2019;'Banda Escola';-35,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/06/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/06/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/06/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/06/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+19/06/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.708,90 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/06/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/07/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+03/07/2019;'BIZUM';-8,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+04/07/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/07/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/07/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+16/07/2019;'AMPA';-30,00 €;'EUROS';'BBVA';'PAGADO';1;'AMPA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+19/07/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';3.567,63 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/07/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/08/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+02/08/2019;'LA REINA DE MI CASA';-132,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+02/08/2019;'S/OR. JUANDIK';-40,00 €;'EUROS';'BBVA';'PAGADO';1;'JUANDIK';'Gastos_Ocio y transporte';'Loterias';
+04/08/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/08/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/08/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+14/08/2019;'EFECTIVO MOVIL';-200,00 €;'EUROS';'BBVA';'PAGADO';1;'EFECTIVO';'Gastos_Gastos varios';'Efectivo';'VARIABLES'
+19/08/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.724,79 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/08/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+02/09/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+04/09/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/09/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/09/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+19/09/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';2.116,51 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+30/09/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+30/09/2019;'LA REINA DE MI CASA';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+01/10/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+01/10/2019;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+01/10/2019;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/10/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/10/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/10/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/10/2019;'LA REINA DE MI CASA';-180,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+07/10/2019;'S/OR. JUANDIK';-40,00 €;'EUROS';'BBVA';'PAGADO';1;'JUANDIK';'Gastos_Ocio y transporte';'Loterias';
+18/10/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.636,04 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+23/10/2019;'ABIZUM';4,00 €;'EUROS';'BBVA';'PAGADO';1;'ABIZUM';'Ingresos';'Transferencias';'VARIABLES'
+28/10/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+04/11/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/11/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/11/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/11/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+04/11/2019;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/11/2019;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+08/11/2019;'BIZUM';-8,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+08/11/2019;'LA REINA DE MI CASA';-144,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+19/11/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.600,95 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+22/11/2019;'AMPA';-26,00 €;'EUROS';'BBVA';'PAGADO';1;'AMPA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+28/11/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+02/12/2019;'SANITAS';-46,60 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+02/12/2019;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+02/12/2019;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/12/2019;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/12/2019;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/12/2019;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+09/12/2019;'EFECTIVO MOVIL';-300,00 €;'EUROS';'BBVA';'PAGADO';1;'EFECTIVO';'Gastos_Gastos varios';'Efectivo';'VARIABLES'
+16/12/2019;'BIZUM';-40,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+19/12/2019;'HAB. BBVA INFORMATION TECHNOLOGY ES';3.475,60 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+26/12/2019;'BIZUM';-19,60 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+30/12/2019;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+30/12/2019;'BIZUM';18,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+30/12/2019;'BIZUM';-47,35 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+30/12/2019;'LA REINA DE MI CASA';-132,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+02/01/2020;'SANITAS';-48,76 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+02/01/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+02/01/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/01/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/01/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/01/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+17/01/2020;'HAB. BBVA INFORMATION TECHNOLOGY ES';2.115,12 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/01/2020;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+29/01/2020;'LA REINA DE MI CASA';-192,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+30/01/2020;'BIZUM';-5,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+03/02/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+03/02/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+03/02/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+10/02/2020;'BIZUM';-40,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+11/02/2020;'ESCOLA';-329,00 €;'EUROS';'BBVA';'PAGADO';1;'ESCOLA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+11/02/2020;'ESCOLA';-315,00 €;'EUROS';'BBVA';'PAGADO';1;'ESCOLA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+11/02/2020;'COMUNIDAD 2019 I ENERO 2020';-260,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+17/02/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+19/02/2020;'HAB. BBVA INFORMATION TECHNOLOGY ES';4.464,53 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+21/02/2020;'BIZUM';-6,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+24/02/2020;'BIZUM CUMPLE BERNAT';-15,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+28/02/2020;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+28/02/2020;'BIZUM ESCAPE ROOM';12,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+28/02/2020;'BIZUM ESCAPE ROOM';24,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+02/03/2020;'BIZUM ESCAPE ROOM';13,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+02/03/2020;'BIZUM ESCAPE ROOM';12,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+02/03/2020;'BIZUM ESCAPE ROOM';-12,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+02/03/2020;'LA REINA DE MI CASA';-144,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+02/03/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+02/03/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+02/03/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+02/03/2020;'BIZUM ESCAPE ROOM';12,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+17/03/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+18/03/2020;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.713,64 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+30/03/2020;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/04/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+01/04/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+01/04/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+06/04/2020;'LA REINA DE MI CASA';-144,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+15/04/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+17/04/2020;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.714,81 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+28/04/2020;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+04/05/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/05/2020;'Banda Escola';-36,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+04/05/2020;'LA REINA DE MI CASA';-144,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+11/05/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+11/05/2020;'BIZUM';-56,95 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+12/05/2020;'Banda Escola';144,00 €;'EUROS';'BBVA';'PAGADO';1;'BANDA';'Gastos_Salud, saber y deporte';'Estudios';'VARIABLES'
+15/05/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+19/05/2020;'HAB. BBVA INFORMATION TECHNOLOGY ES';1.716,45 €;'EUROS';'BBVA';'PAGADO';1;'HAB';'Ingresos';'Nomina';'FIJO'
+20/05/2020;'BIZUM SAMARRETAS';-22,00 €;'EUROS';'BBVA';'PAGADO';1;'BIZUM';'Gastos_Gastos varios';'Transferencias';'VARIABLES'
+28/05/2020;'TRANSFBBVABCLM';-1.200,00 €;'EUROS';'BBVA';'PAGADO';1;'TRANSFBBVABCLM';'No computable';'traspasos, transf.';
+01/06/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+01/06/2020;'LA REINA DE MI CASA';-180,00 €;'EUROS';'BBVA';'PAGADO';1;'REINA';'Gastos_Vivienda y vehiculo';'Serv. domestico';'FIJO'
+17/06/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+02/07/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+17/07/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+02/08/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+17/08/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+02/09/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+17/09/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+02/10/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+17/10/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+02/11/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+17/11/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+02/12/2020;'SANITAS';-47,90 €;'EUROS';'BBVA';'PAGADO';1;'SANITAS';'Gastos_Salud, saber y deporte';'Medico';'VARIABLES'
+17/12/2020;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+17/01/2021;'COMUNIDAD MES EN CURSO';-20,00 €;'EUROS';'BBVA';'PAGADO';1;'COMUNIDAD';'Gastos_Vivienda y vehiculo';'Comunidad';'FIJO'
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+04/02/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/02/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/02/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/03/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/03/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/03/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/04/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/04/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/04/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/05/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/05/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/05/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/06/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/06/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/06/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/07/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/07/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/07/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/08/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/08/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/08/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/09/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/09/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/09/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/10/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/10/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/10/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/11/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/11/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/11/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/12/2020;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/12/2020;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/12/2020;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/01/2021;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/01/2021;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/01/2021;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/02/2021;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/02/2021;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/02/2021;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/03/2021;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/03/2021;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/03/2021;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
+04/04/2021;'Pensiones';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'PENSIONES';'Ahorro';'Pensiones';'FIJO'
+04/04/2021;'Estalvi Institut';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'ESTALVI';'Ahorro';'Estudios';'FIJO'
+04/04/2021;'Cotxe_Nou';-100,00 €;'EUROS';'Simulado';'PAGADO';1;'COTXE';'Ahorro';'Otros';'VARIABLES'
