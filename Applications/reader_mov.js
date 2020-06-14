@@ -51,6 +51,7 @@ fs.createReadStream('./files/Gastos_e_Ingresos_movimientos.csv')
                 .then(res =>{
                   console.log("Correcto sin errores" + index);
                   console.log(res);
+                  conn.end();
                 })
                 .catch(err => {
                   console.log('me quede en: ' + index);
