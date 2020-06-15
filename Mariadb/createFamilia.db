@@ -5,14 +5,27 @@ USE familia_eco;
 
 DROP TABLE apuntes;
 CREATE TABLE IF NOT EXISTS apuntes (apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY, fechaContable DATE, fechaValor DATE, concepto CHAR(100), importeOriginal DECIMAL(15,2) SIGNED,   moneda CHAR(3),  saldoAnt DECIMAL(15,2) SIGNED,   saldoPost DECIMAL(15,2) SIGNED,  importeD DECIMAL(15,2) UNSIGNED,  importeH DECIMAL(15,2) UNSIGNED,  timestampAlta DATETIME,  procesoAlta CHAR(15),  timestampMod DATETIME,  procesoMod CHAR(15));
+ALTER TABLE apuntes
+ADD categoria char(10),
+ADD subCategoria char(10);
+
 
 DROP TABLE historico;
 CREATE TABLE IF NOT EXISTS historico (  apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY,   fechaContable DATE,   fechaValor DATE,  concepto CHAR(100),   importeOriginal DECIMAL(15,2) SIGNED,  moneda CHAR(3),  saldoAnt DECIMAL(15,2) SIGNED,   saldoPost DECIMAL(15,2) SIGNED,  importeD DECIMAL(15,2) UNSIGNED,  importeH DECIMAL(15,2) UNSIGNED,  timestampAlta DATETIME,  procesoAlta CHAR(15),  timestampMod DATETIME,  procesoMod CHAR(15));
 
+ALTER TABLE historico
+ADD categoria char(10),
+ADD subCategoria char(10);
+
 DROP TABLE tarjetas;
 CREATE TABLE IF NOT EXISTS tarjetas (   apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY,   fechaContable DATE,   fechaValor DATE,  concepto CHAR(100),   importeOriginal DECIMAL(15,2) SIGNED,  moneda CHAR(3),  importeD DECIMAL(15,2) UNSIGNED,  importeH DECIMAL(15,2) UNSIGNED,  tarjeta CHAR(1),  timestampAlta DATETIME,  procesoAlta CHAR(15),  timestampMod DATETIME,  procesoMod CHAR(15));
+ALTER TABLE tarjetas
+ADD categoria char(10),
+ADD subCategoria char(10);
 
 DROP TABLE saldos;
-CREATE TABLE IF NOT EXISTS saldos (  fechaContable DATE,   importeOriginal DECIMAL(15,2) SIGNED,  moneda CHAR(3)
-);
+CREATE TABLE IF NOT EXISTS saldos (  fechaContable DATE,   importeOriginal DECIMAL(15,2) SIGNED,  moneda CHAR(3));
+
+DROP TABLE codigos;
+CREATE TABLE IF NOT EXISTS codigos (  clave CHAR(10) primary KEY,   descripcion CHAR(80), timestampMod DATETIME,  procesoMod CHAR(15));
 
