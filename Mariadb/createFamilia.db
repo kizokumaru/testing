@@ -6,20 +6,22 @@ USE familia_eco;
 DROP TABLE apuntes;
 CREATE TABLE IF NOT EXISTS apuntes (apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY, fechaContable DATE, fechaValor DATE, concepto CHAR(100), importeOriginal DECIMAL(15,2) SIGNED,   moneda CHAR(3),  saldoAnt DECIMAL(15,2) SIGNED,   saldoPost DECIMAL(15,2) SIGNED,  importeD DECIMAL(15,2) UNSIGNED,  importeH DECIMAL(15,2) UNSIGNED,  timestampAlta DATETIME,  procesoAlta CHAR(15),  timestampMod DATETIME,  procesoMod CHAR(15));
 ALTER TABLE apuntes
+ADD tipomov char(10),
 ADD categoria char(10),
 ADD subCategoria char(10);
-
 
 DROP TABLE historico;
 CREATE TABLE IF NOT EXISTS historico (  apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY,   fechaContable DATE,   fechaValor DATE,  concepto CHAR(100),   importeOriginal DECIMAL(15,2) SIGNED,  moneda CHAR(3),  saldoAnt DECIMAL(15,2) SIGNED,   saldoPost DECIMAL(15,2) SIGNED,  importeD DECIMAL(15,2) UNSIGNED,  importeH DECIMAL(15,2) UNSIGNED,  timestampAlta DATETIME,  procesoAlta CHAR(15),  timestampMod DATETIME,  procesoMod CHAR(15));
 
 ALTER TABLE historico
+ADD tipomov char(10),
 ADD categoria char(10),
 ADD subCategoria char(10);
 
 DROP TABLE tarjetas;
 CREATE TABLE IF NOT EXISTS tarjetas (   apunteId BIGINT UNSIGNED NOT NULL PRIMARY KEY,   fechaContable DATE,   fechaValor DATE,  concepto CHAR(100),   importeOriginal DECIMAL(15,2) SIGNED,  moneda CHAR(3),  importeD DECIMAL(15,2) UNSIGNED,  importeH DECIMAL(15,2) UNSIGNED,  tarjeta CHAR(1),  timestampAlta DATETIME,  procesoAlta CHAR(15),  timestampMod DATETIME,  procesoMod CHAR(15));
 ALTER TABLE tarjetas
+ADD tipomov char(10),
 ADD categoria char(10),
 ADD subCategoria char(10);
 
@@ -29,3 +31,5 @@ CREATE TABLE IF NOT EXISTS saldos (  fechaContable DATE,   importeOriginal DECIM
 DROP TABLE codigos;
 CREATE TABLE IF NOT EXISTS codigos (  clave CHAR(10) primary KEY,   descripcion CHAR(80), timestampMod DATETIME,  procesoMod CHAR(15));
 
+DROP TABLE concepto_codigos;
+CREATE TABLE IF NOT EXISTS concepto_codigos (  clave CHAR(20) primary KEY,   categoria CHAR(10), subcategoria CHAR(10), timestampMod DATETIME,  procesoMod CHAR(15));
