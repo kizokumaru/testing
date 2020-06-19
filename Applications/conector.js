@@ -1,16 +1,25 @@
+const ctlproc = require('./module/ctl_proceso');
 const mariadb = require('mariadb');
-console.log("Creando conexión");
-const pool = mariadb.createPool({ host: 'localhost', user: 'pi', password: 'beatriz2411', database:'familia_eco',connectionLimit: 5 });
+const ConnPool = require('./const/connection');
+const pool = mariadb.createPool(ConnPool.ConnPool);
+async function asyncFunction() {
+  let conn;
+  try {
+    conn = await pool.getConnection();
+    const rows = await conn.query("SELECT * FROM apuntes");
+    console.log(rows); //[ {val: 1}, meta: ... ]
+    //const res = await conn.query("INSERT INTO myTable value (?, ?)", [1, "mariadb"]);
+    //console.log(res); // { affectedRows: 1, insertId: 1, warningStatus: 0 }
+  } catch (err) {
+    throw err;
+  } finally {
+    ctlproc.exit();
+    if (conn) {
+      return conn.end();
+    }
+  }
+}
 
-pool.getConnection()
-    .then(conn => {
-      console.log("connected ! connection id is " + conn.threadId);
-      conn
-         .query({rowsAsArray:true,sql:'SELECT * FROM apuntes'})
-         .then(res =>{console.log(res);});
-      conn.release(); //release to pool
-    })
-    .catch(err => {
-      console.log("not connected due to error: " + err);
-    });
-
+//
+ctlproc.init();
+asyncFunction();
